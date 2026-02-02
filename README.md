@@ -1,7 +1,7 @@
 food_trucks
 =============
 
-![Logo](https://raw.github.com/codeforamerica/lv-trucks-map/master/apple-touch-icon.png)
+![Logo](https://raw.github.com/stefg/lv-trucks-map/master/apple-touch-icon.png)
 
 Admin interface for City of Las Vegas officials to manage the Las Vegas mobile food vendor app.
 
@@ -19,7 +19,7 @@ The parking meters' API, and the data retrieved from it, is owned and operated b
 
 Our application shows only the designated vendor spots, and vendors participating in the City's program. However, our [scheduling admin interface][back-end] outputs its own API that is publicly accessible. Therefore, other application developers (who may use social media or other strategies to obtain food truck information) may use the real-time information to enrich their own applications.
 
-[front-end]: http://github.com/codeforamerica/lv-trucks-map/
+[front-end]: http://github.com/stefg/lv-trucks-map/
 
 ## Usage / Installation
 
@@ -64,8 +64,8 @@ Here are some ways *you* can contribute:
 * by reviewing patches
 * [financially][]
 
-[issues]: https://github.com/codeforamerica/food_trucks/issues
-[financially]: https://secure.codeforamerica.org/page/contribute
+[issues]: https://github.com/stefg/food_trucks/issues
+[financially]: https://secure.stefg.org/page/contribute
 
 ## Submitting an Issue
 We use the [GitHub issue tracker][issues] to track bugs and features. Before submitting a bug report or feature request, check to make sure it hasn't already been submitted. You can indicate support for an existing issue by voting it up. When submitting a bug report, please include a [Gist][] that includes a stack trace and any details that may be necessary to reproduce the bug, including your gem version, Ruby version, and operating system. Ideally, a bug report should include a pull request with failing specs.
@@ -82,9 +82,9 @@ We use the [GitHub issue tracker][issues] to track bugs and features. Before sub
 ## Copyright
 Copyright (c) 2013 Code for America. See [LICENSE][] for details.
 
-[license]: https://github.com/codeforamerica/lv-trucks-map/blob/master/LICENSE.md
+[license]: https://github.com/stefg/lv-trucks-map/blob/master/LICENSE.md
 
 [![Code for America Tracker](http://stats.codeforamerica.org/codeforamerica/lv-trucks-map.png)][tracker]
 
-[tracker]: http://stats.codeforamerica.org/projects/lv-trucks-map
+[tracker]: http://stats.stefg.org/projects/lv-trucks-map
 
